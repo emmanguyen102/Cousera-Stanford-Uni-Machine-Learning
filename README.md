@@ -1,2 +1,3 @@
-# Machine-Learning-with-Python
-A course from Aalto University
+# Machine-Learning-Cousera
+
+Coding assignments with Octave 
