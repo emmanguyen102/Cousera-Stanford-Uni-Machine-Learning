@@ -4,5 +4,5 @@ Coding assignments with Octave accordingly to relevant topics of each week
 
 ## Week 2: Multivariates Linear Regression
 ## Week 3: Logistic Regression
-## Week 4: Neural Networks Introduction
+## Week 4: Neural Networks: Representation
 ## (Upcoming more topics)
